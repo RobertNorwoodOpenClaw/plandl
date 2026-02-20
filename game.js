@@ -191,14 +191,36 @@ function updateImage() {
     const imageDiv = document.getElementById('plane-image');
     const zoomLevel = ZOOM_LEVELS[currentRound - 1];
     
-    imageDiv.style.backgroundImage = `url('${todayPlane.image}')`;
-    imageDiv.style.backgroundSize = `${zoomLevel.scale}%`;
-    imageDiv.style.backgroundPosition = `${todayPlane.offsetX}% ${todayPlane.offsetY}%`;
-    
-    if (zoomLevel.blur > 0) {
-        imageDiv.style.filter = `blur(${zoomLevel.blur}px)`;
+    // If this is the first load, preload the image hidden, then show with zoom already applied
+    if (!imageDiv.style.backgroundImage) {
+        // Disable transition for initial load
+        imageDiv.style.transition = 'none';
+        imageDiv.style.opacity = '0';
+        
+        const img = new Image();
+        img.onload = function() {
+            imageDiv.style.backgroundImage = `url('${todayPlane.image}')`;
+            imageDiv.style.backgroundSize = `${zoomLevel.scale}%`;
+            imageDiv.style.backgroundPosition = `${todayPlane.offsetX}% ${todayPlane.offsetY}%`;
+            if (zoomLevel.blur > 0) {
+                imageDiv.style.filter = `blur(${zoomLevel.blur}px)`;
+            } else {
+                imageDiv.style.filter = 'none';
+            }
+            // Force reflow then re-enable transitions and show
+            imageDiv.offsetHeight;
+            imageDiv.style.transition = 'background-size 0.5s ease-in-out, background-position 0.5s ease-in-out, filter 0.5s ease-in-out, opacity 0.3s ease-in';
+            imageDiv.style.opacity = '1';
+        };
+        img.src = todayPlane.image;
     } else {
-        imageDiv.style.filter = 'none';
+        imageDiv.style.backgroundSize = `${zoomLevel.scale}%`;
+        imageDiv.style.backgroundPosition = `${todayPlane.offsetX}% ${todayPlane.offsetY}%`;
+        if (zoomLevel.blur > 0) {
+            imageDiv.style.filter = `blur(${zoomLevel.blur}px)`;
+        } else {
+            imageDiv.style.filter = 'none';
+        }
     }
 }
 
