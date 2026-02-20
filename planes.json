@@ -1,0 +1,380 @@
+[
+  {
+    "manufacturer": "Cessna",
+    "model": "172",
+    "version": "Skyhawk",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cessna_172S_Skyhawk_SP%2C_Private_JP6817606.jpg/1280px-Cessna_172S_Skyhawk_SP%2C_Private_JP6817606.jpg",
+    "attribution": "Sergey Kustov, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Cessna",
+    "model": "182",
+    "version": "Skylane",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cessna.182s.g-bsep.arp.jpg/1280px-Cessna.182s.g-bsep.arp.jpg",
+    "attribution": "Arpingstone, Public Domain"
+  },
+  {
+    "manufacturer": "Cessna",
+    "model": "152",
+    "version": "Standard",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cessna_152_PR-EJQ_%288476603945%29.jpg/1280px-Cessna_152_PR-EJQ_%288476603945%29.jpg",
+    "attribution": "Ruy Barbosa Pinto, CC BY 2.0"
+  },
+  {
+    "manufacturer": "Piper",
+    "model": "PA-28",
+    "version": "Archer",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Piper_PA-28-181_Archer_III%2C_Private_JP7651111.jpg/1280px-Piper_PA-28-181_Archer_III%2C_Private_JP7651111.jpg",
+    "attribution": "Sergey Kustov, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Piper",
+    "model": "PA-28",
+    "version": "Cherokee",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Piper_PA-28-140_Cherokee_N48253.jpg/1280px-Piper_PA-28-140_Cherokee_N48253.jpg",
+    "attribution": "Aldo Bidini, CC BY-SA 2.0"
+  },
+  {
+    "manufacturer": "Piper",
+    "model": "PA-18",
+    "version": "Super Cub",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Piper_PA-18-150_Super_Cub_AN1441503.jpg/1280px-Piper_PA-18-150_Super_Cub_AN1441503.jpg",
+    "attribution": "Alan Wilson, CC BY-SA 2.0"
+  },
+  {
+    "manufacturer": "Piper",
+    "model": "PA-46",
+    "version": "Malibu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Piper_PA-46-310P_Malibu%2C_Private_JP6923237.jpg/1280px-Piper_PA-46-310P_Malibu%2C_Private_JP6923237.jpg",
+    "attribution": "Sergey Kustov, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Beechcraft",
+    "model": "Baron",
+    "version": "58",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Beechcraft_Baron_G58%2C_Private_JP7100320.jpg/1280px-Beechcraft_Baron_G58%2C_Private_JP7100320.jpg",
+    "attribution": "Sergey Kustov, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Beechcraft",
+    "model": "Bonanza",
+    "version": "V35",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Beech_V35B_Bonanza_N4PW_%286655213489%29.jpg/1280px-Beech_V35B_Bonanza_N4PW_%286655213489%29.jpg",
+    "attribution": "Ian Abbott, CC BY-SA 2.0"
+  },
+  {
+    "manufacturer": "Beechcraft",
+    "model": "King Air",
+    "version": "350",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Beechcraft_King_Air_350_N350CT_%2826696551176%29.jpg/1280px-Beechcraft_King_Air_350_N350CT_%2826696551176%29.jpg",
+    "attribution": "Heathcliff Stone, CC BY 2.0"
+  },
+  {
+    "manufacturer": "Cirrus",
+    "model": "SR22",
+    "version": "G6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cirrus_SR22%2C_Private_JP7199855.jpg/1280px-Cirrus_SR22%2C_Private_JP7199855.jpg",
+    "attribution": "Sergey Kustov, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Cirrus",
+    "model": "SR20",
+    "version": "Standard",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cirrus_SR20%2C_Private_JP6063351.jpg/1280px-Cirrus_SR20%2C_Private_JP6063351.jpg",
+    "attribution": "Sergey Kustov, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Mooney",
+    "model": "M20",
+    "version": "Ovation",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mooney_M20R_Ovation_2_N923MW_%284735195487%29.jpg/1280px-Mooney_M20R_Ovation_2_N923MW_%284735195487%29.jpg",
+    "attribution": "Udo K, CC BY-SA 2.0"
+  },
+  {
+    "manufacturer": "Diamond",
+    "model": "DA40",
+    "version": "Star",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Diamond_DA40_D-EKIK_Anflug_EDKB.jpg/1280px-Diamond_DA40_D-EKIK_Anflug_EDKB.jpg",
+    "attribution": "Torsten Maiwald, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Diamond",
+    "model": "DA42",
+    "version": "Twin Star",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Diamond_DA42_Twin_Star%2C_Private_JP7169620.jpg/1280px-Diamond_DA42_Twin_Star%2C_Private_JP7169620.jpg",
+    "attribution": "Sergey Kustov, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Lockheed Martin",
+    "model": "F-16",
+    "version": "Fighting Falcon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/1280px-F-16_June_2008.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Lockheed Martin",
+    "model": "F-22",
+    "version": "Raptor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/F-22_Raptor_-_100702-F-4815G-217.jpg/1280px-F-22_Raptor_-_100702-F-4815G-217.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Lockheed Martin",
+    "model": "F-35",
+    "version": "Lightning II",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/F-35A_flight_%28cropped%29.jpg/1280px-F-35A_flight_%28cropped%29.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Boeing",
+    "model": "F/A-18",
+    "version": "Super Hornet",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FA-18F_Super_Hornet.jpg/1280px-FA-18F_Super_Hornet.jpg",
+    "attribution": "US Navy, Public Domain"
+  },
+  {
+    "manufacturer": "Boeing",
+    "model": "F-15",
+    "version": "Eagle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/F-15%2C_71st_Fighter_Squadron%2C_in_flight.JPG/1280px-F-15%2C_71st_Fighter_Squadron%2C_in_flight.JPG",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Boeing",
+    "model": "B-52",
+    "version": "Stratofortress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/B-52H_static_display_arms_06.jpg/1280px-B-52H_static_display_arms_06.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Boeing",
+    "model": "B-17",
+    "version": "Flying Fortress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/B-17G_Flying_Fortress.jpg/1280px-B-17G_Flying_Fortress.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Northrop Grumman",
+    "model": "B-2",
+    "version": "Spirit",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/B-2_Spirit_original.jpg/1280px-B-2_Spirit_original.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Fairchild Republic",
+    "model": "A-10",
+    "version": "Thunderbolt II",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/A-10_Thunderbolt_II_In-flight-2.jpg/1280px-A-10_Thunderbolt_II_In-flight-2.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Northrop",
+    "model": "T-38",
+    "version": "Talon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/T-38_Talon_USAF.jpg/1280px-T-38_Talon_USAF.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Lockheed",
+    "model": "P-38",
+    "version": "Lightning",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lockheed_P-38J_Lightning_USAF.jpg/1280px-Lockheed_P-38J_Lightning_USAF.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "North American",
+    "model": "P-51",
+    "version": "Mustang",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/P-51_Mustang_edit1.jpg/1280px-P-51_Mustang_edit1.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Supermarine",
+    "model": "Spitfire",
+    "version": "Mk IX",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Spitfire_Mk_IX_MH434_3_%286921880950%29.jpg/1280px-Spitfire_Mk_IX_MH434_3_%286921880950%29.jpg",
+    "attribution": "airwolfhound, CC BY-SA 2.0"
+  },
+  {
+    "manufacturer": "Messerschmitt",
+    "model": "Bf 109",
+    "version": "G-6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Messerschmitt_Bf_109_G-6_%289334724443%29.jpg/1280px-Messerschmitt_Bf_109_G-6_%289334724443%29.jpg",
+    "attribution": "Alan Wilson, CC BY-SA 2.0"
+  },
+  {
+    "manufacturer": "McDonnell Douglas",
+    "model": "F-4",
+    "version": "Phantom II",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/F-4E_Phantom_II_of_the_JASDF.jpg/1280px-F-4E_Phantom_II_of_the_JASDF.jpg",
+    "attribution": "Japan MoD, Public Domain"
+  },
+  {
+    "manufacturer": "Grumman",
+    "model": "F-14",
+    "version": "Tomcat",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F-14A_VF-114_over_CVN-65_1989.JPEG/1280px-F-14A_VF-114_over_CVN-65_1989.JPEG",
+    "attribution": "US Navy, Public Domain"
+  },
+  {
+    "manufacturer": "Mikoyan",
+    "model": "MiG-29",
+    "version": "Fulcrum",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Polish_Air_Force_Mikoyan-Gurevich_MiG-29A_%289.12A%29_Lofting-2.jpg/1280px-Polish_Air_Force_Mikoyan-Gurevich_MiG-29A_%289.12A%29_Lofting-2.jpg",
+    "attribution": "Adrian Pingstone, Public Domain"
+  },
+  {
+    "manufacturer": "Mikoyan",
+    "model": "MiG-21",
+    "version": "Fishbed",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MiG-21_Lancer_Romanian_Air_Force.jpg/1280px-MiG-21_Lancer_Romanian_Air_Force.jpg",
+    "attribution": "Alex Beltyukov, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Sukhoi",
+    "model": "Su-27",
+    "version": "Flanker",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sukhoi_Su-27SKM_at_MAKS-2005_airshow.jpg/1280px-Sukhoi_Su-27SKM_at_MAKS-2005_airshow.jpg",
+    "attribution": "Dmitry Avdeev, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Sukhoi",
+    "model": "Su-35",
+    "version": "Flanker-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sukhoi_Su-35S_in_flight_2014.jpg/1280px-Sukhoi_Su-35S_in_flight_2014.jpg",
+    "attribution": "Dmitry Terekhov, CC BY-SA 2.0"
+  },
+  {
+    "manufacturer": "Dassault",
+    "model": "Rafale",
+    "version": "C",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rafale_-_RIAT_2015_%2821498134372%29.jpg/1280px-Rafale_-_RIAT_2015_%2821498134372%29.jpg",
+    "attribution": "Alan Wilson, CC BY-SA 2.0"
+  },
+  {
+    "manufacturer": "Dassault",
+    "model": "Mirage",
+    "version": "2000",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mirage_2000C_in-flight_2_%28cropped%29.jpg/1280px-Mirage_2000C_in-flight_2_%28cropped%29.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Eurofighter",
+    "model": "Typhoon",
+    "version": "FGR4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Eurofighter_Typhoon_7L-WI_ILA_2016_07.jpg/1280px-Eurofighter_Typhoon_7L-WI_ILA_2016_07.jpg",
+    "attribution": "Julian Herzog, CC BY 4.0"
+  },
+  {
+    "manufacturer": "Panavia",
+    "model": "Tornado",
+    "version": "GR4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Panavia_Tornado_GR4_MOD_45155502.jpg/1280px-Panavia_Tornado_GR4_MOD_45155502.jpg",
+    "attribution": "UK MoD, OGL v1.0"
+  },
+  {
+    "manufacturer": "Lockheed",
+    "model": "C-130",
+    "version": "Hercules",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/C-130_Hercules_lands.jpg/1280px-C-130_Hercules_lands.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Boeing",
+    "model": "C-17",
+    "version": "Globemaster III",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/C-17_Globemaster_III.jpg/1280px-C-17_Globemaster_III.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Boeing",
+    "model": "KC-135",
+    "version": "Stratotanker",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/KC-135_Stratotanker_2.jpg/1280px-KC-135_Stratotanker_2.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Bell",
+    "model": "UH-1",
+    "version": "Huey",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/UH-1H_Huey_1968.jpg/1280px-UH-1H_Huey_1968.jpg",
+    "attribution": "USAF, Public Domain"
+  },
+  {
+    "manufacturer": "Boeing",
+    "model": "AH-64",
+    "version": "Apache",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/AH-64D_Apache_Longbow.jpg/1280px-AH-64D_Apache_Longbow.jpg",
+    "attribution": "US Army, Public Domain"
+  },
+  {
+    "manufacturer": "Sikorsky",
+    "model": "UH-60",
+    "version": "Black Hawk",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/UH-60_Black_Hawk.jpg/1280px-UH-60_Black_Hawk.jpg",
+    "attribution": "US Army, Public Domain"
+  },
+  {
+    "manufacturer": "Cessna",
+    "model": "208",
+    "version": "Caravan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cessna_208B_Grand_Caravan%2C_Private_JP7610264.jpg/1280px-Cessna_208B_Grand_Caravan%2C_Private_JP7610264.jpg",
+    "attribution": "Sergey Kustov, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "de Havilland",
+    "model": "DHC-2",
+    "version": "Beaver",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DHC-2_Beaver_C-GVGQ_02.jpg/1280px-DHC-2_Beaver_C-GVGQ_02.jpg",
+    "attribution": "Gary Tompkins, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Pilatus",
+    "model": "PC-12",
+    "version": "Standard",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pilatus_PC-12%2C_Private_JP7185206.jpg/1280px-Pilatus_PC-12%2C_Private_JP7185206.jpg",
+    "attribution": "Sergey Kustov, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Extra",
+    "model": "EA-300",
+    "version": "Standard",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Extra_EA-300L%2C_Private_JP6817938.jpg/1280px-Extra_EA-300L%2C_Private_JP6817938.jpg",
+    "attribution": "Sergey Kustov, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Yakovlev",
+    "model": "Yak-52",
+    "version": "Standard",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Yakovlev_Yak-52%2C_Private_JP6817850.jpg/1280px-Yakovlev_Yak-52%2C_Private_JP6817850.jpg",
+    "attribution": "Sergey Kustov, CC BY-SA 3.0"
+  },
+  {
+    "manufacturer": "Antonov",
+    "model": "An-2",
+    "version": "Colt",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antonov_An-2_RA-35054_%2810390843896%29.jpg/1280px-Antonov_An-2_RA-35054_%2810390843896%29.jpg",
+    "attribution": "Anna Zvereva, CC BY-SA 2.0"
+  },
+  {
+    "manufacturer": "Gulfstream",
+    "model": "G650",
+    "version": "Standard",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gulfstream_G650_%28N653GD%29.jpg/1280px-Gulfstream_G650_%28N653GD%29.jpg",
+    "attribution": "BriYYZ, CC BY-SA 2.0"
+  },
+  {
+    "manufacturer": "Bombardier",
+    "model": "Global",
+    "version": "7500",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bombardier_BD-700-2A12_Global_7500_C-FLRX_ILA_Berlin_2018_10.jpg/1280px-Bombardier_BD-700-2A12_Global_7500_C-FLRX_ILA_Berlin_2018_10.jpg",
+    "attribution": "Julian Herzog, CC BY 4.0"
+  },
+  {
+    "manufacturer": "Embraer",
+    "model": "Phenom",
+    "version": "300",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Embraer_Phenom_300%2C_Private_JP7610264.jpg/1280px-Embraer_Phenom_300%2C_Private_JP7610264.jpg",
+    "attribution": "Sergey Kustov, CC BY-SA 3.0"
+  }
+]

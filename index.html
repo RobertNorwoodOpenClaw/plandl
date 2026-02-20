@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plandl ✈️ - Daily Airplane Guessing Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>✈️ Plandl</h1>
+            <p class="subtitle">Guess the airplane</p>
+        </header>
+
+        <main id="game">
+            <!-- Image container -->
+            <div class="image-container">
+                <div id="plane-image" class="plane-image"></div>
+            </div>
+
+            <!-- Game info -->
+            <div class="game-info">
+                <div class="round-info">
+                    <span>Round <span id="current-round">1</span>/5</span>
+                    <span class="multiplier">×<span id="multiplier">5</span></span>
+                </div>
+                <div class="score-info">
+                    Score: <span id="score">0</span>
+                </div>
+            </div>
+
+            <!-- Input form -->
+            <div class="input-section" id="input-section">
+                <div class="input-group">
+                    <label for="manufacturer">Manufacturer</label>
+                    <select id="manufacturer" class="game-input">
+                        <option value="">Select manufacturer...</option>
+                    </select>
+                </div>
+
+                <div class="input-group">
+                    <label for="model">Model</label>
+                    <select id="model" class="game-input" disabled>
+                        <option value="">Select model...</option>
+                    </select>
+                </div>
+
+                <div class="input-group">
+                    <label for="version">Version</label>
+                    <select id="version" class="game-input" disabled>
+                        <option value="">Select version...</option>
+                    </select>
+                </div>
+
+                <button id="submit-guess" class="btn-primary" disabled>Submit Guess</button>
+            </div>
+
+            <!-- Results section -->
+            <div class="results-section" id="results-section" style="display: none;">
+                <div class="result-row">
+                    <span class="result-label">Manufacturer:</span>
+                    <span id="result-manufacturer" class="result-value"></span>
+                </div>
+                <div class="result-row">
+                    <span class="result-label">Model:</span>
+                    <span id="result-model" class="result-value"></span>
+                </div>
+                <div class="result-row">
+                    <span class="result-label">Version:</span>
+                    <span id="result-version" class="result-value"></span>
+                </div>
+                <button id="next-round" class="btn-primary">Next Round</button>
+            </div>
+
+            <!-- Game over section -->
+            <div class="game-over" id="game-over" style="display: none;">
+                <h2>Game Complete!</h2>
+                <div class="final-score">
+                    <div class="score-display">
+                        <span class="score-label">Final Score</span>
+                        <span class="score-value" id="final-score">0</span>
+                    </div>
+                </div>
+                <div class="answer-reveal">
+                    <h3>Today's Airplane</h3>
+                    <p class="answer-text">
+                        <strong><span id="answer-manufacturer"></span> <span id="answer-model"></span> <span id="answer-version"></span></strong>
+                    </p>
+                    <p class="attribution" id="attribution"></p>
+                </div>
+                <div class="game-over-actions">
+                    <button id="share-results" class="btn-primary">Share Results</button>
+                    <p class="next-game">Next puzzle in <span id="countdown">--:--:--</span></p>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>A daily airplane guessing game • Come back tomorrow for a new puzzle!</p>
+        </footer>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>
